@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461051037843",
+    "project_id": "artisans-2f274",
+    "storage_bucket": "artisans-2f274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461051037843:android:980e6d9c805608de35a566",
+        "android_client_info": {
+          "package_name": "com.example.artisan_cap_painter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBrM2yezSWFMB1-XXaX9SLxxJK2G8fQoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
